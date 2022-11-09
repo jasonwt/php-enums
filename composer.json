@@ -1,0 +1,18 @@
+{
+    "name": "pctlib/enums",
+    "description": "PHP7+ enums",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "pctlib\\enums\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jason Thompson"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
