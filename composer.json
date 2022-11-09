@@ -1,6 +1,6 @@
 {
     "name": "pctlib/enums",
-    "description": "PHP7+ enums",
+    "description": "PHP enums",
     "type": "library",
     "license": "MIT",
     "autoload": {
